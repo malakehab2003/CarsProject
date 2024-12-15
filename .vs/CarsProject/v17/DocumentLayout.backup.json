@@ -1,45 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\coulage tasks\\open source\\CarsProject\\",
+  "WorkspaceRootPath": "D:\\coulage tasks\\CarsProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C4DAD13-1952-49BE-AB00-8F7E6AC33F02}|CarsProject\\CarsProject.csproj|d:\\coulage tasks\\open source\\carsproject\\carsproject\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C4DAD13-1952-49BE-AB00-8F7E6AC33F02}|CarsProject\\CarsProject.csproj|d:\\coulage tasks\\carsproject\\carsproject\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4DAD13-1952-49BE-AB00-8F7E6AC33F02}|CarsProject\\CarsProject.csproj|solutionrelative:carsproject\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4DAD13-1952-49BE-AB00-8F7E6AC33F02}|CarsProject\\CarsProject.csproj|d:\\coulage tasks\\carsproject\\carsproject\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C4DAD13-1952-49BE-AB00-8F7E6AC33F02}|CarsProject\\CarsProject.csproj|solutionrelative:carsproject\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C4DAD13-1952-49BE-AB00-8F7E6AC33F02}|CarsProject\\CarsProject.csproj|D:\\coulage tasks\\open source\\CarsProject\\carsproject\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1C4DAD13-1952-49BE-AB00-8F7E6AC33F02}|CarsProject\\CarsProject.csproj|D:\\coulage tasks\\CarsProject\\carsproject\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1C4DAD13-1952-49BE-AB00-8F7E6AC33F02}|CarsProject\\CarsProject.csproj|solutionrelative:carsproject\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C4DAD13-1952-49BE-AB00-8F7E6AC33F02}|CarsProject\\CarsProject.csproj|d:\\coulage tasks\\open source\\carsproject\\carsproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C4DAD13-1952-49BE-AB00-8F7E6AC33F02}|CarsProject\\CarsProject.csproj|d:\\coulage tasks\\carsproject\\carsproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C4DAD13-1952-49BE-AB00-8F7E6AC33F02}|CarsProject\\CarsProject.csproj|solutionrelative:carsproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C4DAD13-1952-49BE-AB00-8F7E6AC33F02}|CarsProject\\CarsProject.csproj|D:\\coulage tasks\\open source\\CarsProject\\carsproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1C4DAD13-1952-49BE-AB00-8F7E6AC33F02}|CarsProject\\CarsProject.csproj|D:\\coulage tasks\\CarsProject\\carsproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1C4DAD13-1952-49BE-AB00-8F7E6AC33F02}|CarsProject\\CarsProject.csproj|solutionrelative:carsproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C4DAD13-1952-49BE-AB00-8F7E6AC33F02}|CarsProject\\CarsProject.csproj|d:\\coulage tasks\\open source\\carsproject\\carsproject\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C4DAD13-1952-49BE-AB00-8F7E6AC33F02}|CarsProject\\CarsProject.csproj|d:\\coulage tasks\\carsproject\\carsproject\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C4DAD13-1952-49BE-AB00-8F7E6AC33F02}|CarsProject\\CarsProject.csproj|solutionrelative:carsproject\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C4DAD13-1952-49BE-AB00-8F7E6AC33F02}|CarsProject\\CarsProject.csproj|D:\\coulage tasks\\open source\\CarsProject\\carsproject\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1C4DAD13-1952-49BE-AB00-8F7E6AC33F02}|CarsProject\\CarsProject.csproj|D:\\coulage tasks\\CarsProject\\carsproject\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1C4DAD13-1952-49BE-AB00-8F7E6AC33F02}|CarsProject\\CarsProject.csproj|solutionrelative:carsproject\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C4DAD13-1952-49BE-AB00-8F7E6AC33F02}|CarsProject\\CarsProject.csproj|d:\\coulage tasks\\open source\\carsproject\\carsproject\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C4DAD13-1952-49BE-AB00-8F7E6AC33F02}|CarsProject\\CarsProject.csproj|d:\\coulage tasks\\carsproject\\carsproject\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C4DAD13-1952-49BE-AB00-8F7E6AC33F02}|CarsProject\\CarsProject.csproj|solutionrelative:carsproject\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C4DAD13-1952-49BE-AB00-8F7E6AC33F02}|CarsProject\\CarsProject.csproj|d:\\coulage tasks\\open source\\carsproject\\carsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C4DAD13-1952-49BE-AB00-8F7E6AC33F02}|CarsProject\\CarsProject.csproj|d:\\coulage tasks\\carsproject\\carsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C4DAD13-1952-49BE-AB00-8F7E6AC33F02}|CarsProject\\CarsProject.csproj|solutionrelative:carsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C4DAD13-1952-49BE-AB00-8F7E6AC33F02}|CarsProject\\CarsProject.csproj|D:\\coulage tasks\\open source\\CarsProject\\carsproject\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1C4DAD13-1952-49BE-AB00-8F7E6AC33F02}|CarsProject\\CarsProject.csproj|D:\\coulage tasks\\CarsProject\\carsproject\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1C4DAD13-1952-49BE-AB00-8F7E6AC33F02}|CarsProject\\CarsProject.csproj|solutionrelative:carsproject\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C4DAD13-1952-49BE-AB00-8F7E6AC33F02}|CarsProject\\CarsProject.csproj|d:\\coulage tasks\\open source\\carsproject\\carsproject\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C4DAD13-1952-49BE-AB00-8F7E6AC33F02}|CarsProject\\CarsProject.csproj|d:\\coulage tasks\\carsproject\\carsproject\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C4DAD13-1952-49BE-AB00-8F7E6AC33F02}|CarsProject\\CarsProject.csproj|solutionrelative:carsproject\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,28 +54,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "D:\\coulage tasks\\CarsProject\\CarsProject\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "CarsProject\\Form2.Designer.cs",
+              "ToolTip": "D:\\coulage tasks\\CarsProject\\CarsProject\\Form2.Designer.cs",
+              "RelativeToolTip": "CarsProject\\Form2.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T13:21:19.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form2.cs",
-              "DocumentMoniker": "D:\\coulage tasks\\open source\\CarsProject\\CarsProject\\Form2.cs",
+              "DocumentMoniker": "D:\\coulage tasks\\CarsProject\\CarsProject\\Form2.cs",
               "RelativeDocumentMoniker": "CarsProject\\Form2.cs",
-              "ToolTip": "D:\\coulage tasks\\open source\\CarsProject\\CarsProject\\Form2.cs",
+              "ToolTip": "D:\\coulage tasks\\CarsProject\\CarsProject\\Form2.cs",
               "RelativeToolTip": "CarsProject\\Form2.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-08T20:15:29.65Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Signin.cs",
-              "DocumentMoniker": "D:\\coulage tasks\\open source\\CarsProject\\CarsProject\\Signin.cs",
+              "DocumentMoniker": "D:\\coulage tasks\\CarsProject\\CarsProject\\Signin.cs",
               "RelativeDocumentMoniker": "CarsProject\\Signin.cs",
-              "ToolTip": "D:\\coulage tasks\\open source\\CarsProject\\CarsProject\\Signin.cs",
+              "ToolTip": "D:\\coulage tasks\\CarsProject\\CarsProject\\Signin.cs",
               "RelativeToolTip": "CarsProject\\Signin.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAowCUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -80,11 +101,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\coulage tasks\\open source\\CarsProject\\CarsProject\\Form1.cs",
+              "DocumentMoniker": "D:\\coulage tasks\\CarsProject\\CarsProject\\Form1.cs",
               "RelativeDocumentMoniker": "CarsProject\\Form1.cs",
-              "ToolTip": "D:\\coulage tasks\\open source\\CarsProject\\CarsProject\\Form1.cs",
+              "ToolTip": "D:\\coulage tasks\\CarsProject\\CarsProject\\Form1.cs",
               "RelativeToolTip": "CarsProject\\Form1.cs",
               "ViewState": "AgIAAHIAAAAAAAAAAAAswIwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -93,11 +114,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "D:\\coulage tasks\\open source\\CarsProject\\CarsProject\\Form1.Designer.cs",
+              "DocumentMoniker": "D:\\coulage tasks\\CarsProject\\CarsProject\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "CarsProject\\Form1.Designer.cs",
-              "ToolTip": "D:\\coulage tasks\\open source\\CarsProject\\CarsProject\\Form1.Designer.cs",
+              "ToolTip": "D:\\coulage tasks\\CarsProject\\CarsProject\\Form1.Designer.cs",
               "RelativeToolTip": "CarsProject\\Form1.Designer.cs",
               "ViewState": "AgIAAHcAAAAAAAAAAAAowIUAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -105,73 +126,70 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Welcome.cs",
-              "DocumentMoniker": "D:\\coulage tasks\\open source\\CarsProject\\CarsProject\\Welcome.cs",
+              "DocumentMoniker": "D:\\coulage tasks\\CarsProject\\CarsProject\\Welcome.cs",
               "RelativeDocumentMoniker": "CarsProject\\Welcome.cs",
-              "ToolTip": "D:\\coulage tasks\\open source\\CarsProject\\CarsProject\\Welcome.cs",
+              "ToolTip": "D:\\coulage tasks\\CarsProject\\CarsProject\\Welcome.cs",
               "RelativeToolTip": "CarsProject\\Welcome.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAowBUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T19:04:40.886Z"
+              "WhenOpened": "2024-12-07T19:04:40.886Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\coulage tasks\\open source\\CarsProject\\CarsProject\\Program.cs",
+              "DocumentMoniker": "D:\\coulage tasks\\CarsProject\\CarsProject\\Program.cs",
               "RelativeDocumentMoniker": "CarsProject\\Program.cs",
-              "ToolTip": "D:\\coulage tasks\\open source\\CarsProject\\CarsProject\\Program.cs",
+              "ToolTip": "D:\\coulage tasks\\CarsProject\\CarsProject\\Program.cs",
               "RelativeToolTip": "CarsProject\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-07T19:02:27.083Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form2.cs [Design]",
-              "DocumentMoniker": "D:\\coulage tasks\\open source\\CarsProject\\CarsProject\\Form2.cs",
+              "DocumentMoniker": "D:\\coulage tasks\\CarsProject\\CarsProject\\Form2.cs",
               "RelativeDocumentMoniker": "CarsProject\\Form2.cs",
               "ToolTip": "D:\\coulage tasks\\open source\\CarsProject\\CarsProject\\Form2.cs [Design]*",
-              "RelativeToolTip": "CarsProject\\Form2.cs [Design]*",
+              "RelativeToolTip": "..\\open source\\CarsProject\\CarsProject\\Form2.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-08T20:13:12.653Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Signin.cs [Design]",
-              "DocumentMoniker": "D:\\coulage tasks\\open source\\CarsProject\\CarsProject\\Signin.cs",
+              "DocumentMoniker": "D:\\coulage tasks\\CarsProject\\CarsProject\\Signin.cs",
               "RelativeDocumentMoniker": "CarsProject\\Signin.cs",
               "ToolTip": "D:\\coulage tasks\\open source\\CarsProject\\CarsProject\\Signin.cs [Design]",
-              "RelativeToolTip": "CarsProject\\Signin.cs [Design]",
+              "RelativeToolTip": "..\\open source\\CarsProject\\CarsProject\\Signin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-07T19:09:37.024Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\coulage tasks\\open source\\CarsProject\\CarsProject\\Form1.cs",
+              "DocumentMoniker": "D:\\coulage tasks\\CarsProject\\CarsProject\\Form1.cs",
               "RelativeDocumentMoniker": "CarsProject\\Form1.cs",
               "ToolTip": "D:\\coulage tasks\\open source\\CarsProject\\CarsProject\\Form1.cs [Design]*",
-              "RelativeToolTip": "CarsProject\\Form1.cs [Design]*",
+              "RelativeToolTip": "..\\open source\\CarsProject\\CarsProject\\Form1.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-07T18:45:26.622Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Welcome.cs [Design]",
-              "DocumentMoniker": "D:\\coulage tasks\\open source\\CarsProject\\CarsProject\\Welcome.cs",
+              "DocumentMoniker": "D:\\coulage tasks\\CarsProject\\CarsProject\\Welcome.cs",
               "RelativeDocumentMoniker": "CarsProject\\Welcome.cs",
               "ToolTip": "D:\\coulage tasks\\open source\\CarsProject\\CarsProject\\Welcome.cs [Design]",
-              "RelativeToolTip": "CarsProject\\Welcome.cs [Design]",
+              "RelativeToolTip": "..\\open source\\CarsProject\\CarsProject\\Welcome.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-07T19:03:03.044Z"
             }
